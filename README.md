@@ -6,3 +6,6 @@ First view
 
 
 Second view after clicking on "Roll" button
+
+
+![Diceroller2](https://user-images.githubusercontent.com/86805669/156534031-af0e74bb-67cf-4db2-80da-b644acb291ef.PNG)
